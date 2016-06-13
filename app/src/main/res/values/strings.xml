@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Geological Dictionary</string>
+    <string name="search_hint">Search</string>
+    <string name="recent_menu">Recent Search</string>
+    <string name="clear_recent">Clear Recent Search</string>
+    <string name="about_us">About</string>
+    <string name="about_us_detail">Phyo Pwint Thu
+        </string>
+    <string name="licensed_credit">Licensed</string>
+    <string name="noResultText">No result to display</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
